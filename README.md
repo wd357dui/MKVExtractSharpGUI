@@ -12,7 +12,7 @@ Advantages (compared to MKVExtractGUI2):
 
 the entire window accepts file drag & drop (file path will be written into the "input" TextBox).
 
-other than .mkv and .mka, OpenFileDialog allows .mks and .mk3d files.
+other than .mkv and .mka, OpenFileDialog allows .mks and .mk3d files. (WebM files in addition since release 1.0.3)
 
 ===
 
