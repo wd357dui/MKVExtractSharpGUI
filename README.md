@@ -6,7 +6,7 @@ Since the update v20.0.0 ('I Am The Sun') of MKVToolNix, the old MKVExtractGUI2 
 
 so I wrote this application, to make things easy again.
 
-
+===
 
 Advantages (compared to MKVExtractGUI2):
 
@@ -14,6 +14,7 @@ the entire window accepts file drag & drop (file path will be written into the "
 
 other than .mkv and .mka, OpenFileDialog allows .mks and .mk3d files.
 
+===
 
 Disvantages (for now):
 
