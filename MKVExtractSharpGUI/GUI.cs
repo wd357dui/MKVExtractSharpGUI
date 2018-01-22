@@ -62,7 +62,7 @@ namespace MKVExtractSharpGUI
         private void SelectFileButton_Click(object sender, EventArgs e)
         {
             OpenFileDialog open = new OpenFileDialog();
-            open.Filter = "Matroska file|*.mkv;*.mka;*.mk3d;*.mks";
+            open.Filter = "Matroska file|*.mkv;*.mka;*.mk3d;*.mks|WebM file|*.webm;*.weba";
             open.Multiselect = false;
             if (open.ShowDialog() == DialogResult.OK)
             {
