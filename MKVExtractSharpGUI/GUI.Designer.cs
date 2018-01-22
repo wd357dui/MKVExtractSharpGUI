@@ -118,6 +118,8 @@
             this.ResumeLayout(false);
             this.PerformLayout();
 
+            this.DragEnter += MkvExtractSharpGUI_DragEnter;
+            this.DragDrop += MkvExtractSharpGUI_DragDrop;
         }
 
         #endregion
