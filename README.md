@@ -20,4 +20,4 @@ Disvantages (for now):
 
 probably not all the output file extensions are covered.
 
-a track selection function is not designed, all the tracks will be equally extracted.
+a track selection is not designed, all the tracks will be equally extracted.
