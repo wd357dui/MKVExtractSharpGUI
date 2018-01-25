@@ -180,6 +180,8 @@ namespace MKVExtractSharpGUI
                         extension = ".opus";
                     else if (array[i].Contains("MPEG Audio")
                         extension = ".mp3"
+                    else if (array[i].Contains("PCM")
+                        extension = ".wav"
                     else if (array[i].Contains("VP8"))
                         extension = ".vp8";
                     else if (array[i].Contains("VP9"))
