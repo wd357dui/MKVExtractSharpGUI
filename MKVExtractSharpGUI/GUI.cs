@@ -178,7 +178,7 @@ namespace MKVExtractSharpGUI
                         extension = ".flac";
                     else if (array[i].Contains("Opus"))
                         extension = ".opus";
-                    else if (array[i].Contains("MPEG Audio")
+                    else if (array[i].Contains("MPEG Audio"))
                         extension = ".mp3"
                     else if (array[i].Contains("PCM"))
                         extension = ".wav"
